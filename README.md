@@ -9,8 +9,6 @@
 
 <div align="center">
 
-<img src="https://github.com/atikul3441.png?size=150" width="150" height="150" style="border-radius:50%" alt="Atikul GitHub profile photo"/>
-
 <h1>Hi 👋, I'm Atikul</h1>
 
 <h3>Developer | Open-Source Enthusiast | Problem Solver</h3>
