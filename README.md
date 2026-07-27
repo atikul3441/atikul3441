@@ -162,18 +162,8 @@
 </td>
 
 <td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50"/><br>
-<b>PyCharm</b>
-</td>
-
-<td>
 <img src="https://img.icons8.com/color/96/android-studio--v3.png" width="50"/><br>
 <b>Android Studio</b>
-</td>
-
-<td>
-<img src="https://img.icons8.com/color/96/intellij-idea.png" width="50"/><br>
-<b>IntelliJ</b>
 </td>
 
 <td>
@@ -184,16 +174,6 @@
 </tr>
 
 <tr align="center">
-
-<td>
-<img src="https://img.icons8.com/color/96/power-bi.png" width="50"/><br>
-<b>Power BI</b>
-</td>
-
-<td>
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="50"/><br>
-<b>Excel</b>
-</td>
 
 <td>
 <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="50"/><br>
@@ -215,11 +195,6 @@
 <tr align="center">
 
 <td>
-<img src="https://img.icons8.com/color/96/cloud.png" width="50"/><br>
-<b>Cloud</b>
-</td>
-
-<td>
 <img src="https://img.icons8.com/color/96/machine-learning.png" width="50"/><br>
 <b>ML Models</b>
 </td>
@@ -227,16 +202,6 @@
 <td>
 <img src="https://img.icons8.com/color/96/notebook.png" width="50"/><br>
 <b>Notebook</b>
-</td>
-
-<td>
-<img src="https://img.icons8.com/color/96/binary-file.png" width="50"/><br>
-<b>Algorithms</b>
-</td>
-
-<td>
-<img src="https://img.icons8.com/color/96/calculator.png" width="50"/><br>
-<b>Math Tools</b>
 </td>
 
 </tr>
